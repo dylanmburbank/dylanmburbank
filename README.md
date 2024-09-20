@@ -1,4 +1,4 @@
-My name is Dylan Burbank, an aspiring data analyst with a strong foundation in business analytics, actively seeking full-time opportunities where I can apply my technical skills and passion for data to drive business outcomes. I recently earned my Master of Science in Business Analytics and am eager to bring my expertise in data manipulation, predictive modeling, and visualization to a dynamic team.
+My name is Dylan Burbank, I am an aspiring data analyst with a strong foundation in business analytics, actively seeking full-time opportunities where I can apply my technical skills and passion for data to drive business outcomes. I recently earned my Master of Science in Business Analytics and am eager to bring my expertise in data manipulation, predictive modeling, and visualization to a dynamic team.
 
 Technical Skills
 
