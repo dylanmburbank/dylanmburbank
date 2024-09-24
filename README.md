@@ -33,7 +33,7 @@ Used optimization methods in Python and Excel to reimagine high school locations
 
 Worked on the reelection campaign of a NH Executive Councilman. Tasked with polling analysis and creating visuals to support the campaign.
 
-🚀 **Seeking New Opportunities**
+## 🚀 **Seeking New Opportunities**
 
 I am currently on the job market, looking for a role where I can contribute my technical skills and analytical expertise to make a real impact. This GitHub repository showcases my work and the breadth of my experience in applying data-driven solutions to business challenges.
 
