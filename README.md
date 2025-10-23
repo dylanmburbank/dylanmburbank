@@ -1,6 +1,5 @@
- # Dylan Burbank – Aspiring Data Analyst
+ # Dylan Burbank – Data Analyst
 
-Hello! I am actively seeking full-time opportunities where I can apply my technical skills and passion for data to drive business outcomes. I recently earned my Master of Science in Business Analytics and am eager to bring my expertise in data manipulation, predictive modeling, and visualization to a dynamic team.
 
 ## 🛠️ **Technical Skills**
 
@@ -33,8 +32,5 @@ Used optimization methods in Python and Excel to reimagine high school locations
 
 Worked on the reelection campaign of a NH Executive Councilman. Tasked with polling analysis and creating visuals to support the campaign.
 
-## 🚀 **Seeking New Opportunities**
-
-I am currently on the job market, looking for a role where I can contribute my technical skills and analytical expertise to make a real impact. This GitHub repository showcases my work and the breadth of my experience in applying data-driven solutions to business challenges.
 
 Feel free to explore my projects and reach out [via email](mailto:dylanmburbank@gmail.com) if you’re interested in discussing how I can contribute to your team!
